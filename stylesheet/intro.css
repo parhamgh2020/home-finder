@@ -1,0 +1,46 @@
+@font-face {
+    font-family: Belgiansignature;
+    src: url(./Belgiansignature.otf);
+}
+
+.intro {
+    background-color: mediumturquoise !important;
+    padding-top: 25px;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    background-image: url(../images/Animated\ Shape.svg);
+    background-size: 100% 100%;
+}
+
+.dev-name-1 {
+    font-size: 50px !important;
+}
+
+.dev-name-2 {
+    font-weight: bolder;
+    font-family: Belgiansignature !important;
+    font-size: 50px !important;
+}
+
+.dev-paragraph {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.intro p {
+    color: white;
+    font-size: 25px;
+}
+
+.btn {
+    margin: 5px !important;
+    font-size: 25px !important;
+    margin-bottom: 10px !important;
+}
+
+.btn-2 {
+    color: black !important;
+    background-color: white !important;
+    font-size: 25px !important;
+}

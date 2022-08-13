@@ -1,0 +1,23 @@
+.header {
+    background-color: mediumturquoise !important;
+}
+
+.navbar-brand {
+    color: brown !important;
+    font-size: 50px !important;
+    font-weight: bold !important;
+    padding-left: 25px;
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 25px !important;
+}
+
+#left-side {
+    padding-right: 25px;
+}
+
+.navbar-toggler {
+    border: none !important;
+}
