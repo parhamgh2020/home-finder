@@ -3,6 +3,10 @@
     src: url(./Belgiansignature.otf);
 }
 
+body {
+    background-color: rgba(222, 222, 222, 0.712) !important;
+}
+
 .intro {
     background-color: mediumturquoise !important;
     padding-top: 25px;
@@ -10,7 +14,7 @@
     justify-content: center !important;
     text-align: center !important;
     background-image: url(../images/Animated\ Shape.svg);
-    background-size: 100% 100%;
+    background-size: 100%;
 }
 
 .dev-name-1 {
@@ -26,6 +30,7 @@
 .dev-paragraph {
     padding-top: 25px;
     padding-bottom: 25px;
+    text-align: justify;
 }
 
 .intro p {
@@ -37,6 +42,7 @@
     margin: 5px !important;
     font-size: 25px !important;
     margin-bottom: 10px !important;
+    background-color: grey !important
 }
 
 .btn-2 {
@@ -44,3 +50,4 @@
     background-color: white !important;
     font-size: 25px !important;
 }
+   
