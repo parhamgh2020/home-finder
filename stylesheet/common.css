@@ -4,4 +4,6 @@ body {
     font-family: 'Montserrat', sans-serif !important;
     font-family: 'Rubik Dirt', cursive !important;
     font-family: 'Rubik Distressed', cursive !important;
+    overflow-x: hidden !important;
+    scroll-behavior: smooth;
 }
